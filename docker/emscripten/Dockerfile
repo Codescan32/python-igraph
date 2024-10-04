@@ -1,4 +1,4 @@
-FROM python:3.10.6-bullseye
+FROM python:3.12.6-bullseye
 
 SHELL ["/bin/bash", "-c"]
 
